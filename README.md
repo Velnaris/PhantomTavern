@@ -17,7 +17,7 @@ PhantomPal lets you chat and roleplay with AI characters using any OpenAI-compat
 ## 📥 Download
 
 👉 [Latest Release](https://github.com/Velnaris/PhantomPal/releases/latest)
-![GitHub Downloads](https://img.shields.io/github/downloads/Velnaris/PhantomPal/total)
+- ![GitHub Downloads](https://img.shields.io/github/downloads/Velnaris/PhantomPal/total)
 
 ## 💬 Support & Community
 
