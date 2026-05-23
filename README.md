@@ -4,6 +4,11 @@
 
 PhantomPal lets you chat and roleplay with AI characters using any OpenAI-compatible API — fully offline, fully private, no subscription required.
 
+<p align="center">
+  <img src="assets/home.png" width="30%" />
+  <img src="assets/chat.png" width="30%" />
+</p>
+
 ## ✨ Features
 
 - 🃏 **Chara Card V2** — Import/export characters from Chub.ai and other communities
@@ -16,12 +21,16 @@ PhantomPal lets you chat and roleplay with AI characters using any OpenAI-compat
 
 ## 📥 Download
 
-👉 [Latest Release](https://github.com/Velnaris/PhantomPal/releases/latest)
-- ![GitHub Downloads](https://img.shields.io/github/downloads/Velnaris/PhantomPal/total)
+<p align="center">
+  <a href="https://github.com/Velnaris/PhantomPal/releases/latest">
+    <img src="https://img.shields.io/github/v/release/Velnaris/PhantomPal?style=for-the-badge&label=Download&color=7C3AED" />
+  </a>
+  <img src="https://img.shields.io/github/downloads/Velnaris/PhantomPal/total?style=for-the-badge&color=7C3AED" />
+</p>
 
 ## 💬 Support & Community
 
-- [Patreon](https://www.patreon.com/posts/phantompal-1-2-1-158396470) — Support development & get updates
+- ❤️ [Patreon](https://www.patreon.com/posts/phantompal-1-2-1-158396470) — Support development & get updates
 
 ## 📋 Requirements
 
