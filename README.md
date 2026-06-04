@@ -31,9 +31,9 @@ Phantom Tavern lets you chat and roleplay with AI characters using any OpenAI-co
 
 ## 👥 Support & Community
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Our%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/K65hfW8hA)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Our%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8TGHZ836Pf)
 
-- 💬 [Discord Server](https://discord.gg/K65hfW8hA) — Chat with the community, share character cards, and get instant help.
+- 💬 [Discord Server](https://discord.gg/8TGHZ836Pf) — Chat with the community, share character cards, and get instant help.
 - ❤️ [Patreon](https://www.patreon.com/posts/phantompal-1-2-1-158396470) — Support development & get updates.
 - 🐛 [Report a bug](https://github.com/Velnaris/PhantomTavern/issues/new?template=bug_report.md) — Found something broken?
 - 💡 [Request a feature](https://github.com/Velnaris/PhantomTavern/issues/new?template=feature_request.md) — Have an idea?
