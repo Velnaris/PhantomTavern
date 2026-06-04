@@ -5,9 +5,10 @@
 Phantom Tavern lets you chat and roleplay with AI characters using any OpenAI-compatible API — fully offline, fully private, no subscription required.
 
 <p align="center">
-  <img src="assets/home.png" width="30%" />
-  <img src="assets/chat.png" width="30%" />
-  <img src="assets/chat2.png" width="30%" />
+  <img src="assets/home.png" width="25%" />
+  <img src="assets/chat.png" width="25%" />
+  <img src="assets/chat2.png" width="25%" />
+  <img src="assets/chat2.png" width="25%" />
 </p>
 
 ## ✨ Features
