@@ -1,8 +1,8 @@
 # Phantom Tavern 👻
 
-> A local-first AI roleplay chat app for Android.
+> A local-first, native Android client for AI roleplay and storytelling.
 
-Phantom Tavern lets you chat and roleplay with AI characters using any OpenAI-compatible API — fully offline, fully private, no subscription required.
+Phantom Tavern lets you chat and roleplay with your favorite AI characters using any OpenAI-compatible API — fully offline, fully private, no subscription required.
 
 <p align="center">
   <img src="assets/home.png" width="20%" />
@@ -13,13 +13,16 @@ Phantom Tavern lets you chat and roleplay with AI characters using any OpenAI-co
 
 ## ✨ Features
 
-- 🃏 **Chara Card V2** — Import/export characters from Chub.ai and other communities
-- 🌍 **World Book** — Keyword-triggered lore injection for richer storytelling
-- 🎨 **AI Image Generation** — Characters can send images mid-conversation
-- 🧠 **Memory Search** — AI recalls past conversations naturally
-- ⚡ **Streaming replies** — Real-time SSE streaming or standard JSON response
-- 🔒 **100% local** — All data stored on your device. Nothing sent to our servers.
-- 🔌 **Any OpenAI-compatible API** — OpenRouter, Claude, DeepSeek, local models, and more
+- 👥 **Group Chat & Agentic AI** — Bring multiple characters into one room. Enable Agentic mode to watch AI characters autonomously interact and drive the plot forward!
+- 🖼️ **Immersive UI & Backgrounds** — Native Android design. Set character art as your chat background for ultimate immersion.
+- 🃏 **Chara Card V2** — Import/export characters from Chub.ai and other communities (JSON & PNG supported).
+- 🎭 **Persona System** — Create and easily switch between multiple user identities.
+- 🌍 **World Book** — Keyword-triggered lore injection for richer, consistent storytelling.
+- 🎨 **Proactive AI Image Generation** — Characters can spontaneously take selfies or send images mid-conversation based on the context.
+- 🧠 **Memory Search** — Semantic AI recall ensures characters remember past conversations naturally.
+- ⚡ **Streaming Replies** — Real-time SSE streaming with blazing-fast generation stops.
+- 🔒 **100% Local & Private** — All chats, characters, and keys are stored locally on your device. Nothing is sent to our servers.
+- 🔌 **API Agnostic** — Works flawlessly with OpenRouter, DeepSeek, Claude, OpenAI, or any local LLM endpoint.
 
 ## 📥 Download
 
@@ -42,4 +45,4 @@ Phantom Tavern lets you chat and roleplay with AI characters using any OpenAI-co
 ## 📋 Requirements
 
 - Android 8.0+
-- Your own API key (OpenAI, OpenRouter, or any compatible endpoint)
+- Your own API key (OpenRouter, DeepSeek, OpenAI, or any compatible endpoint)
