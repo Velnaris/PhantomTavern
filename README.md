@@ -41,6 +41,8 @@ Phantom Tavern lets you chat and roleplay with your favorite AI characters using
 - ❤️ [Patreon](https://www.patreon.com/posts/phantompal-1-2-1-158396470) — Support development & get updates.
 - 🐛 [Report a bug](https://github.com/Velnaris/PhantomTavern/issues/new?template=bug_report.md) — Found something broken?
 - 💡 [Request a feature](https://github.com/Velnaris/PhantomTavern/issues/new?template=feature_request.md) — Have an idea?
+- 🎁 [LIMITED OFFER] Want to try Phantom Tavern for FREE?
+Join our Discord Server and send me a DM to claim a $10 Free API Key (Powered by ai.lebio.top, supports DeepSeek, Claude 3.5, etc. No credit card required!)
 
 ## 📋 Requirements
 
