@@ -42,7 +42,7 @@ Phantom Tavern lets you chat and roleplay with your favorite AI characters using
 - 🐛 [Report a bug](https://github.com/Velnaris/PhantomTavern/issues/new?template=bug_report.md) — Found something broken?
 - 💡 [Request a feature](https://github.com/Velnaris/PhantomTavern/issues/new?template=feature_request.md) — Have an idea?
 - 🎁 [LIMITED OFFER] Want to try Phantom Tavern for FREE?
-Join our Discord Server and send me a DM to claim a $10 Free API Key (Powered by [AI API](https://ai.lebio.top), supports DeepSeek, GLM 2.5, etc. No credit card required!)
+Join our Discord Server and send me a DM to claim a $10 Free API Key (Powered by [AI API](https://ai.lebio.top), supports DeepSeek, GLM 5.2, etc. No credit card required!)
 
 ## 📋 Requirements
 
